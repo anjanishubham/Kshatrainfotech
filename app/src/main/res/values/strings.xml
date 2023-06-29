@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kshatrainfotech</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="image_vide_type">
+        <item>Fill</item>
+        <item>Zoom</item>
+        <item>Clip</item>
+    </string-array>
+</resources>
